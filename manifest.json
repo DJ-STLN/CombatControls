@@ -1,10 +1,10 @@
 {
   "Name": "Combat Controls",
   "Author": "DJ-STLN",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "A simple fix to the game controls that properly turns the character in the direction of your MouseClick no matter how far away from the character you click.",
   "UniqueID": "DJ-STLN.CombatControls",
   "EntryDll": "CombatControls.dll",
   "MinimumApiVersion": "2.0",
-  "UpdateKeys": [""]
+  "UpdateKeys": [ "https://github.com/DJ-STLN/CombatControls.git" ]
 }
