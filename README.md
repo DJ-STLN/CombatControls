@@ -26,5 +26,4 @@ I always found it slightly boring to stand completely still, spamming my sword a
 I decided to add the option to move a bit during attack and block moves.
 
   - ***Sideways Swipe***: When running and attacking to the sides, the character will slide along the ground while swinging the weapon.
-  - ***Block Dash***: A quick dash while blocking, used by hitting 'left-click' immediately after blocking.
- 
+  - ***Block Dash***: A quick dash while blocking, used by hitting 'left-click' immediately after blocking and moving in the direction you want to dash.
