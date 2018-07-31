@@ -25,5 +25,6 @@ This simple mod makes it so that clicking in the general direction of a tile is 
 I always found it slightly boring to stand completely still, spamming my sword at innocent slimes.
 I decided to add the option to move a bit during attack and block moves.
 
-  - ***Sideways Swipe***
+  - ***Sideways Swipe***: When running and attacking to the sides, the character will slide along the ground while swinging the weapon.
+  - ***Block Dash***: A quick dash while blocking, used by hitting 'left-click' immediately after blocking.
  
