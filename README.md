@@ -14,7 +14,7 @@ Launch the Game and Enjoy! :)
 **Fixed Mouseclick controls**
 
  - Turns the character in the direction of your MouseClick, when using MouseClicks for tools.
- This doesn't change functions of clicking with 'C'.
+ (This doesn't change functions of clicking with 'C'.)
  
 The game's normal functions for turning a character with mouse clicks check what specific tile is clicked,
 requiring that the exact tile next to the character is clicked in order to turn the character towards it.
