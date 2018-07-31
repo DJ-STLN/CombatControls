@@ -1,7 +1,7 @@
 # CombatControls
 Download the files from https://github.com/DJ-STLN/CombatControls/ as ZIP
 
-Drag CombatControls.zip folder into your StardewValley/Mods folder.
+Put CombatControls.zip folder into your StardewValley/Mods folder.
 
 Unpack CombatControls.zip
 
