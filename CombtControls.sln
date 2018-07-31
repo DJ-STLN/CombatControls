@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CombatControls", "StardewMod\CombatControls.csproj", "{994910D9-B26B-49E8-95F8-A2F186896FAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{994910D9-B26B-49E8-95F8-A2F186896FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994910D9-B26B-49E8-95F8-A2F186896FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994910D9-B26B-49E8-95F8-A2F186896FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994910D9-B26B-49E8-95F8-A2F186896FAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88C2CC8F-4E60-4C22-8063-B5E87FDCFB48}
+	EndGlobalSection
+EndGlobal
