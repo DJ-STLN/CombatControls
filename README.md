@@ -9,7 +9,6 @@ Launch the Game and Enjoy! :)
 
 ## Overview
 
-//TODO summary
 
 ***Fixed Mouseclick controls***
 
