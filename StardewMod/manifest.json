@@ -1,10 +1,10 @@
 {
   "Name": "Combat Controls",
-  "Author": "DJ-STLN",
-  "Version": "1.0.2",
+  "Author": "DJ-STLN, Krutonium",
+  "Version": "2.0",
   "Description": "A simple fix to the game controls that properly turns the character in the direction of your MouseClick.",
-  "UniqueID": "DJ-STLN.CombatControls",
+  "UniqueID": "DJ-STLN.Krutonium.CombatControls",
   "EntryDll": "CombatControls.dll",
-  "MinimumApiVersion": "2.0",
-  "UpdateKeys": [ "https://github.com/DJ-STLN/CombatControls.git" ]
+  "MinimumApiVersion": "3.0",
+  "UpdateKeys": [ "https://github.com/Krutonium/CombatControls.git" ]
 }
