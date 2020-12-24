@@ -23,9 +23,9 @@ namespace CombatControls
         // Log Buttons bressed 
         public override void Entry(IModHelper helper)
         {
-            InputEvents.ButtonPressed += this.InputEvents_ButtonPressed;
-            GameEvents.UpdateTick += GameEvents_UpdateTick;
-
+            helper.Events.Input.ButtonPressed += InputEvents_ButtonPressed;
+            helper.Events.GameLoop.UpdateTicking += GameEvents_UpdateTick;
+            Console.WriteLine("Hooked Events");
         }
 
         private void GameEvents_UpdateTick(object sender, EventArgs e)
@@ -47,7 +47,7 @@ namespace CombatControls
             }
         }
 
-        private void InputEvents_ButtonPressed(object sender, EventArgsInput e)
+        private void InputEvents_ButtonPressed(object sender, ButtonPressedEventArgs e)
         {
 
             // ignore if player hasn't loaded a save yet
@@ -56,7 +56,8 @@ namespace CombatControls
 
 
             string button = e.Button.ToString();
-            if (e.IsUseToolButton && button == "MouseLeft")
+            //if (e.Button.IsUseToolButton() && button == "MouseLeft")
+            if (e.Button == SButton.MouseLeft) 
             {
 
                 float newVelocity = 2.4f;
